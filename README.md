@@ -8,7 +8,7 @@ This is a Django web application for managing and displaying an image gallery. U
 ## Features
 - User authentication: Users can sign up, log in, and log out.
 - Image upload: Authenticated users can upload images to the gallery.
-- Gallery view: Users can view all uploaded images in the gallery.
+- Gallery view: Only the uploader can view images uploaded by them.
 - Image details: Each image displays details such as the uploader's username and upload timestamp.
 - Responsive design: The gallery is designed to work well on desktop and mobile devices.
 
